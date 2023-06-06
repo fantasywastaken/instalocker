@@ -2,8 +2,7 @@
   "updateAvailable": false,
   "categories": [
     {
-      "category": "duelists",
-      "agents": {
+      "duelists": {
         "Jett": "add6443a-41bd-e414-f6ad-e58d267f4e95",
         "Phoenix": "eb93336a-449b-9c1b-0a54-a891f7921d69",
         "Neon": "bb2a4828-46eb-8cd1-e765-15848195d751",
@@ -13,8 +12,7 @@
       }
     },
     {
-      "category": "controllers",
-      "agents": {
+      "controllers": {
         "Astra": "41fb69c1-4189-7b37-f117-bcaf1e96f1bf",
         "Brimstone": "9f0d8ba9-4140-b941-57d3-a7ad57c6b417",
         "Omen": "8e253930-4c05-31dd-1b6c-968525494517",
@@ -23,8 +21,7 @@
       }
     },
     {
-      "category": "initiators",
-      "agents": {
+      "initiators": {
         "Breach": "5f8d3a7f-467b-97f3-062c-13acf203c006",
         "Gekko": "e370fa57-4757-3604-3648-499e1f642d3f",
         "Skye": "6f2a04ca-43e0-be17-7f36-b3908627744d",
@@ -33,8 +30,7 @@
       }
     },
     {
-      "category": "sentinels",
-      "agents": {
+      "sentinels": {
         "Chamber": "22697a3d-45bf-8dd7-4fec-84a9e28c69d7",
         "Cypher": "117ed9e3-49f3-6512-3ccf-0cada7e3823b",
         "Killjoy": "1e58de9c-4950-5125-93e9-a0aee9f98746",
